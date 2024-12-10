@@ -1,4 +1,9 @@
+#The normal stuff
 pandas==2.2.3
 numpy==3.1
+
+#Training and importing a model
 scikit-learn==1.5.2
+
+#CSV work
 joblib==1.4.2
